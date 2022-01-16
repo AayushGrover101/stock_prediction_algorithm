@@ -1,1 +1,1 @@
-# stock_prediction_algorithm
+# Stock Prediction Algorithm with LSTMs
